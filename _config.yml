@@ -10,7 +10,7 @@ paginate: 10
 paginate_path: "/:num/"
 page_excerpts: true
 timezone: Europe/Bucharest
-currentyear: "2024"
+currentyear: "2025"
 
 author: Lynxmic
 source_url: "https://github.com/theclyron/lynxblog"
